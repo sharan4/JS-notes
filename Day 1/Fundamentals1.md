@@ -11,9 +11,9 @@
     ```javascript
     let user = "John", age = "39", message = "Hello";
     ```
-- There are three keywords to declare a varible - 
+- There are three keywords to declare a variable - 
   - `var`- The older scripts used var to declare a variable
-  - `let` - The newer scripts use let which behaves much similar like var, but it has a deifference.
+  - `let` - The newer scripts use let which behaves much similar like var, but it has a difference.
   - `const` - It declares a constant variable, meaning its value can't be changed.
 - A variable can be reassigned by calling it equal to something. Like,
 
